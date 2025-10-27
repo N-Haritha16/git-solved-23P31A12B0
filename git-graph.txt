@@ -1,0 +1,20 @@
+* c08ff71 (HEAD -> main, origin/main, origin/HEAD) docs: Add changelog
+* 2ab4ee4 (tag: v1.1.0, tag: v1.0.0, origin/feature/another-feature) docs: Update README
+* dada208 (feature/another-feature) docs: Add FAQ section
+| * 4df3b1f (origin/feature/new-feature, feature/new-feature) feat: Add new feature
+|/  
+* efb71e8 updated with latest changes
+*   76b3f82 updated with latest changes
+|\  
+| * d3dd9b2 (instructor/conflict-simulator, conflict-simulator) updating conflict-simulator
+* | 485a0d7 (feature-branch) Added index.js, package files and updated README; removed test.txt
+* | 9fa17fc Merge branch 'main' and resolve conflicts
+* | 26e29ba (origin/dev, dev) Simulated changes for diff test
+* | 6460377 Update architecture doc
+* | 33e05ea Add test file
+* | 0312c6f (instructor/main, instructor/HEAD) updating main
+* | fadfd24 Revise README for DevOps Simulator project
+|/  
+| * 02011a5 (instructor/dev) updating dev
+|/  
+* ae630eb Initial commit
