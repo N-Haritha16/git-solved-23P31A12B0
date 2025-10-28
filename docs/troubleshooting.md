@@ -17,3 +17,4 @@ This guide helps developers and DevOps engineers quickly identify and fix common
 ```bash
 npm install
 npm start
+Updated troubleshooting guide - added tips for errors
