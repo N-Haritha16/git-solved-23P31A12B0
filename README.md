@@ -92,3 +92,4 @@ MIT License
 
 ## FAQ
 update
+Added new section for environment setup
